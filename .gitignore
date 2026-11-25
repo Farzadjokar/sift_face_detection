@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+face/
+non_face_images/
+.vscode/
